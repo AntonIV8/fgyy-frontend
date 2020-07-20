@@ -1,0 +1,138 @@
+﻿{
+  "name": "DataLinefgyyuser_group",
+  "modelName": "data-line-fgyy-user-group",
+  "className": "user_group",
+  "nameSpace": "DataLine.fgyy",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "group_id",
+      "relatedTo": "data-line-fgyy-grp",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "user_id",
+      "relatedTo": "data-line-fgyy-usr",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "group_id",
+      "relatedTo": "data-line-fgyy-grp",
+      "inverse": null
+    }
+  ],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "user_groupE",
+      "modelName": "data-line-fgyy-user-group",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "user_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "login",
+              "caption": "Login",
+              "hidden": false,
+              "index": 1
+            }
+          ],
+          "index": 0,
+          "type": "default",
+          "caption": "User_id",
+          "name": "user_id",
+          "relatedTo": "data-line-fgyy-usr",
+          "inverse": null
+        },
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "group_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "name",
+              "caption": "Name",
+              "hidden": false,
+              "index": 3
+            }
+          ],
+          "index": 2,
+          "type": "default",
+          "caption": "Group_id",
+          "name": "group_id",
+          "relatedTo": "data-line-fgyy-grp",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    },
+    {
+      "name": "user_groupL",
+      "modelName": "data-line-fgyy-user-group",
+      "attrs": [],
+      "belongsTo": [
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "user_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "login",
+              "caption": "Login",
+              "hidden": false,
+              "index": 0
+            }
+          ],
+          "index": -1,
+          "type": "default",
+          "caption": "Login",
+          "name": "user_id",
+          "relatedTo": "data-line-fgyy-usr",
+          "inverse": null
+        },
+        {
+          "lookupValue": null,
+          "lookupValueField": null,
+          "relationName": "group_id",
+          "belongsTo": [],
+          "hidden": false,
+          "attrs": [
+            {
+              "name": "name",
+              "caption": "Name",
+              "hidden": false,
+              "index": 1
+            }
+          ],
+          "index": -1,
+          "type": "default",
+          "caption": "Name",
+          "name": "group_id",
+          "relatedTo": "data-line-fgyy-grp",
+          "inverse": null
+        }
+      ],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,22 @@
+export default {
+  caption: 'DataLinefgyyorder_itemE',
+  'action-caption': 'action',
+  'price-caption': 'price',
+  'dt_created-caption': 'dt_created',
+  'dt_modified-caption': 'dt_modified',
+  'log-caption': 'log',
+  'state.description-caption': 'state.description',
+  'creator_id.login-caption': 'creator_id.login',
+  'service_order_id.description-caption': 'service_order_id.description',
+  'clone_service_id.name-caption': 'clone_service_id.name',
+  'parent_id.action-caption': 'parent_id.action',
+  'service_id.name-caption': 'service_id.name',
+  'modifier_id.login-caption': 'modifier_id.login',
+  'state-caption': 'state',
+  'creator_id-caption': 'creator_id',
+  'service_order_id-caption': 'service_order_id',
+  'clone_service_id-caption': 'clone_service_id',
+  'parent_id-caption': 'parent_id',
+  'service_id-caption': 'service_id',
+  'modifier_id-caption': 'modifier_id'
+};

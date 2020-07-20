@@ -1,0 +1,20 @@
+export default {
+  caption: 'Service_order',
+  'description-caption': 'Description',
+  'dt_completed-caption': 'Dt_completed',
+  'dt_created-caption': 'Dt_created',
+  'dt_modified-caption': 'Dt_modified',
+  'dt_started-caption': 'Dt_started',
+  'external_id-caption': 'External_id',
+  'price-caption': 'Price',
+  'state.description-caption': 'Description',
+  'modifier_id.login-caption': 'Login',
+  'customer_id.customer-caption': 'Customer',
+  'contragent_id.contragent-caption': 'Contragent',
+  'creator_id.login-caption': 'Login',
+  'state-caption': 'State',
+  'modifier_id-caption': 'Modifier_id',
+  'customer_id-caption': 'Customer_id',
+  'contragent_id-caption': 'Contragent_id',
+  'creator_id-caption': 'Creator_id'
+};

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-characteristic-type-e",
+  "editForm": "data-line-fgyy-characteristic-type-e",
+  "external": false,
+  "caption": "Characteristic_type",
+  "name": "DataLinefgyycharacteristic_typeL",
+  "className": "characteristic_typeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-characteristic-type",
+      "modelProjection": "characteristic_typeL"
+    }
+  ]
+}

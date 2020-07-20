@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinefgyycatalogE",
+  "className": "catalogE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-catalog",
+      "modelProjection": "catalogE"
+    }
+  ]
+}

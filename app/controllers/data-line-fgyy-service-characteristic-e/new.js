@@ -1,0 +1,4 @@
+import DataLinefgyyservice_characteristicEController from '../data-line-fgyy-service-characteristic-e';
+
+var DataLinefgyyservice_characteristicENewController = DataLinefgyyservice_characteristicEController;
+export default DataLinefgyyservice_characteristicENewController;

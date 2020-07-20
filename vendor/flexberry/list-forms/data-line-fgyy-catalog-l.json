@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-catalog-e",
+  "editForm": "data-line-fgyy-catalog-e",
+  "external": false,
+  "caption": "Catalog",
+  "name": "DataLinefgyycatalogL",
+  "className": "catalogL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-catalog",
+      "modelProjection": "catalogL"
+    }
+  ]
+}

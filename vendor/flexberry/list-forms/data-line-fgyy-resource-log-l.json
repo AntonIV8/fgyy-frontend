@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-log-e",
+  "editForm": "data-line-fgyy-resource-log-e",
+  "external": false,
+  "caption": "Resource_log",
+  "name": "DataLinefgyyresource_logL",
+  "className": "resource_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-log",
+      "modelProjection": "resource_logL"
+    }
+  ]
+}

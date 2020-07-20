@@ -1,0 +1,4 @@
+import DataLinefgyyresource_characteristicEController from '../data-line-fgyy-resource-characteristic-e';
+
+var DataLinefgyyresource_characteristicENewController = DataLinefgyyresource_characteristicEController;
+export default DataLinefgyyresource_characteristicENewController;

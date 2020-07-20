@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLinefgyyservice_stateE",
+  "className": "service_stateE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-state",
+      "modelProjection": "service_stateE"
+    }
+  ]
+}

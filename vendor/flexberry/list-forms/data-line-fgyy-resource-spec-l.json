@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-spec-e",
+  "editForm": "data-line-fgyy-resource-spec-e",
+  "external": false,
+  "caption": "Resource_spec",
+  "name": "DataLinefgyyresource_specL",
+  "className": "resource_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-spec",
+      "modelProjection": "resource_specL"
+    }
+  ]
+}

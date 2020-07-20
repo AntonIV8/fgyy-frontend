@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-grp-e",
+  "editForm": "data-line-fgyy-grp-e",
+  "external": false,
+  "caption": "Grp",
+  "name": "DataLinefgyygrpL",
+  "className": "grpL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-grp",
+      "modelProjection": "grpL"
+    }
+  ]
+}

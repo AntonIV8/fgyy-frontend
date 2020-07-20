@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-contragent-e",
+  "editForm": "data-line-fgyy-contragent-e",
+  "external": false,
+  "caption": "Contragent",
+  "name": "DataLinefgyycontragentL",
+  "className": "contragentL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-contragent",
+      "modelProjection": "contragentL"
+    }
+  ]
+}

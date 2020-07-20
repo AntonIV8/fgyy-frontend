@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-order-state-e",
+  "editForm": "data-line-fgyy-order-state-e",
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinefgyyorder_stateL",
+  "className": "order_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-order-state",
+      "modelProjection": "order_stateL"
+    }
+  ]
+}

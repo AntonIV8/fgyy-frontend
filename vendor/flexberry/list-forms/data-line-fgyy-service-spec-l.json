@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-service-spec-e",
+  "editForm": "data-line-fgyy-service-spec-e",
+  "external": false,
+  "caption": "Service_spec",
+  "name": "DataLinefgyyservice_specL",
+  "className": "service_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-spec",
+      "modelProjection": "service_specL"
+    }
+  ]
+}

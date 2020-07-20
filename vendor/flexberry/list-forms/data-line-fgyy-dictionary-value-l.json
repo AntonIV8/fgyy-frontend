@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-dictionary-value-e",
+  "editForm": "data-line-fgyy-dictionary-value-e",
+  "external": false,
+  "caption": "Dictionary_value",
+  "name": "DataLinefgyydictionary_valueL",
+  "className": "dictionary_valueL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-dictionary-value",
+      "modelProjection": "dictionary_valueL"
+    }
+  ]
+}

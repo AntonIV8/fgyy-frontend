@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-order-item-e",
+  "editForm": "data-line-fgyy-order-item-e",
+  "external": false,
+  "caption": "Order_item",
+  "name": "DataLinefgyyorder_itemL",
+  "className": "order_itemL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-order-item",
+      "modelProjection": "order_itemL"
+    }
+  ]
+}

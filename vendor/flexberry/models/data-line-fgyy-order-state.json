@@ -1,0 +1,54 @@
+﻿{
+  "name": "DataLinefgyyorder_state",
+  "modelName": "data-line-fgyy-order-state",
+  "className": "order_state",
+  "nameSpace": "DataLine.fgyy",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "description",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "order_stateE",
+      "modelName": "data-line-fgyy-order-state",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "order_stateL",
+      "modelName": "data-line-fgyy-order-state",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

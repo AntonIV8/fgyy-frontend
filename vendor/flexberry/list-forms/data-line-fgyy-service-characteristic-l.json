@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-service-characteristic-e",
+  "editForm": "data-line-fgyy-service-characteristic-e",
+  "external": false,
+  "caption": "Service_characteristic",
+  "name": "DataLinefgyyservice_characteristicL",
+  "className": "service_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-characteristic",
+      "modelProjection": "service_characteristicL"
+    }
+  ]
+}

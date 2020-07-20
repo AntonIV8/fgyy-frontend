@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Dictionary",
+  "name": "DataLinefgyydictionaryE",
+  "className": "dictionaryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-dictionary",
+      "modelProjection": "dictionaryE"
+    }
+  ]
+}

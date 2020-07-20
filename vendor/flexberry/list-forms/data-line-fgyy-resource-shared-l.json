@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-shared-e",
+  "editForm": "data-line-fgyy-resource-shared-e",
+  "external": false,
+  "caption": "Resource_shared",
+  "name": "DataLinefgyyresource_sharedL",
+  "className": "resource_sharedL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-shared",
+      "modelProjection": "resource_sharedL"
+    }
+  ]
+}

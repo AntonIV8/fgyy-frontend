@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-service-characteristic-log-e",
+  "editForm": "data-line-fgyy-service-characteristic-log-e",
+  "external": false,
+  "caption": "Service_characteristic_log",
+  "name": "DataLinefgyyservice_characteristic_logL",
+  "className": "service_characteristic_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-characteristic-log",
+      "modelProjection": "service_characteristic_logL"
+    }
+  ]
+}

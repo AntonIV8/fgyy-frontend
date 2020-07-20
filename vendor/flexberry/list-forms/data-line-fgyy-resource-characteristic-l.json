@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-characteristic-e",
+  "editForm": "data-line-fgyy-resource-characteristic-e",
+  "external": false,
+  "caption": "Resource_characteristic",
+  "name": "DataLinefgyyresource_characteristicL",
+  "className": "resource_characteristicL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-characteristic",
+      "modelProjection": "resource_characteristicL"
+    }
+  ]
+}

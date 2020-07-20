@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-service-log-e",
+  "editForm": "data-line-fgyy-service-log-e",
+  "external": false,
+  "caption": "Service_log",
+  "name": "DataLinefgyyservice_logL",
+  "className": "service_logL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-log",
+      "modelProjection": "service_logL"
+    }
+  ]
+}

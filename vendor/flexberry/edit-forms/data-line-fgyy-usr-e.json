@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLinefgyyusrE",
+  "className": "usrE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-usr",
+      "modelProjection": "usrE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-customer-e",
+  "editForm": "data-line-fgyy-customer-e",
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLinefgyycustomerL",
+  "className": "customerL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-customer",
+      "modelProjection": "customerL"
+    }
+  ]
+}

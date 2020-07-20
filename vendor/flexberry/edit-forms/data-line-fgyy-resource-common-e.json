@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLinefgyyresource_commonE",
+  "className": "resource_commonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-common",
+      "modelProjection": "resource_commonE"
+    }
+  ]
+}

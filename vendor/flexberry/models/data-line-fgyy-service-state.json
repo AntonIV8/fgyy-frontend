@@ -1,0 +1,54 @@
+﻿{
+  "name": "DataLinefgyyservice_state",
+  "modelName": "data-line-fgyy-service-state",
+  "className": "service_state",
+  "nameSpace": "DataLine.fgyy",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "description",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "service_stateE",
+      "modelName": "data-line-fgyy-service-state",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "service_stateL",
+      "modelName": "data-line-fgyy-service-state",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

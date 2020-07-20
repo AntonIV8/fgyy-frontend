@@ -1,0 +1,22 @@
+export default {
+  caption: 'Order_item',
+  'action-caption': 'Action',
+  'price-caption': 'Price',
+  'dt_created-caption': 'Dt_created',
+  'dt_modified-caption': 'Dt_modified',
+  'log-caption': 'Log',
+  'state.description-caption': 'Description',
+  'creator_id.login-caption': 'Login',
+  'service_order_id.description-caption': 'Description',
+  'clone_service_id.name-caption': 'Name',
+  'parent_id.action-caption': 'Action',
+  'service_id.name-caption': 'Name',
+  'modifier_id.login-caption': 'Login',
+  'state-caption': 'State',
+  'creator_id-caption': 'Creator_id',
+  'service_order_id-caption': 'Service_order_id',
+  'clone_service_id-caption': 'Clone_service_id',
+  'parent_id-caption': 'Parent_id',
+  'service_id-caption': 'Service_id',
+  'modifier_id-caption': 'Modifier_id'
+};

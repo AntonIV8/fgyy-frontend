@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Resource_log",
+  "name": "DataLinefgyyresource_logE",
+  "className": "resource_logE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-log",
+      "modelProjection": "resource_logE"
+    }
+  ]
+}

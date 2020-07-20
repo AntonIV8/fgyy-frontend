@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-usage-spec-e",
+  "editForm": "data-line-fgyy-resource-usage-spec-e",
+  "external": false,
+  "caption": "Resource_usage_spec",
+  "name": "DataLinefgyyresource_usage_specL",
+  "className": "resource_usage_specL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-usage-spec",
+      "modelProjection": "resource_usage_specL"
+    }
+  ]
+}

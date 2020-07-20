@@ -1,0 +1,20 @@
+export default {
+  caption: 'DataLinefgyyserviceE',
+  'name-caption': 'name',
+  'description-caption': 'description',
+  'dt_created-caption': 'dt_created',
+  'dt_started-caption': 'dt_started',
+  'dt_ended-caption': 'dt_ended',
+  'contragent_id.contragent-caption': 'contragent_id.contragent',
+  'cfs_id.name-caption': 'cfs_id.name',
+  'service_spec_id.enum-caption': 'service_spec_id.enum',
+  'state.description-caption': 'state.description',
+  'parent_id.name-caption': 'parent_id.name',
+  'customer_id.customer-caption': 'customer_id.customer',
+  'contragent_id-caption': 'contragent_id',
+  'cfs_id-caption': 'cfs_id',
+  'service_spec_id-caption': 'service_spec_id',
+  'state-caption': 'state',
+  'parent_id-caption': 'parent_id',
+  'customer_id-caption': 'customer_id'
+};

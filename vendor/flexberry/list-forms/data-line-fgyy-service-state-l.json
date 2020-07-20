@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-service-state-e",
+  "editForm": "data-line-fgyy-service-state-e",
+  "external": false,
+  "caption": "Service_state",
+  "name": "DataLinefgyyservice_stateL",
+  "className": "service_stateL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-service-state",
+      "modelProjection": "service_stateL"
+    }
+  ]
+}

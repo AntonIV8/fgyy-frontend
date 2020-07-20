@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-user-role-e",
+  "editForm": "data-line-fgyy-user-role-e",
+  "external": false,
+  "caption": "User_role",
+  "name": "DataLinefgyyuser_roleL",
+  "className": "user_roleL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-user-role",
+      "modelProjection": "user_roleL"
+    }
+  ]
+}

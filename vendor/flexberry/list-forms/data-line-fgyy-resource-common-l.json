@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-resource-common-e",
+  "editForm": "data-line-fgyy-resource-common-e",
+  "external": false,
+  "caption": "Resource_common",
+  "name": "DataLinefgyyresource_commonL",
+  "className": "resource_commonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-resource-common",
+      "modelProjection": "resource_commonL"
+    }
+  ]
+}

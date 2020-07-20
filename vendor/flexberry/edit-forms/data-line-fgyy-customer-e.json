@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Customer",
+  "name": "DataLinefgyycustomerE",
+  "className": "customerE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-customer",
+      "modelProjection": "customerE"
+    }
+  ]
+}

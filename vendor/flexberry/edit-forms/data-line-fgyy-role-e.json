@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Role",
+  "name": "DataLinefgyyroleE",
+  "className": "roleE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-role",
+      "modelProjection": "roleE"
+    }
+  ]
+}

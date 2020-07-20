@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Order_state",
+  "name": "DataLinefgyyorder_stateE",
+  "className": "order_stateE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-order-state",
+      "modelProjection": "order_stateE"
+    }
+  ]
+}

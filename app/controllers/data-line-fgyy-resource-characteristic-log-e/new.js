@@ -1,0 +1,4 @@
+import DataLinefgyyresource_characteristic_logEController from '../data-line-fgyy-resource-characteristic-log-e';
+
+var DataLinefgyyresource_characteristic_logENewController = DataLinefgyyresource_characteristic_logEController;
+export default DataLinefgyyresource_characteristic_logENewController;

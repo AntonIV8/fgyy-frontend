@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-usr-e",
+  "editForm": "data-line-fgyy-usr-e",
+  "external": false,
+  "caption": "Usr",
+  "name": "DataLinefgyyusrL",
+  "className": "usrL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-usr",
+      "modelProjection": "usrL"
+    }
+  ]
+}

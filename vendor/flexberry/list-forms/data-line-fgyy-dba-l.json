@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "data-line-fgyy-dba-e",
+  "editForm": "data-line-fgyy-dba-e",
+  "external": false,
+  "caption": "Dba",
+  "name": "DataLinefgyydbaL",
+  "className": "dbaL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-dba",
+      "modelProjection": "dbaL"
+    }
+  ]
+}

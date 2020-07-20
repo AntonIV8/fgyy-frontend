@@ -1,0 +1,54 @@
+﻿{
+  "name": "DataLinefgyycardinality_type",
+  "modelName": "data-line-fgyy-cardinality-type",
+  "className": "cardinality_type",
+  "nameSpace": "DataLine.fgyy",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "description",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "cardinality_typeE",
+      "modelName": "data-line-fgyy-cardinality-type",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "cardinality_typeL",
+      "modelName": "data-line-fgyy-cardinality-type",
+      "attrs": [
+        {
+          "name": "description",
+          "caption": "Description",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

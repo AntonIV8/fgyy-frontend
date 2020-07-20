@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "user_id",
+      "projection": "usrL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "group_id",
+      "projection": "grpL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "User_group",
+  "name": "DataLinefgyyuser_groupE",
+  "className": "user_groupE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "data-line-fgyy-user-group",
+      "modelProjection": "user_groupE"
+    }
+  ]
+}
